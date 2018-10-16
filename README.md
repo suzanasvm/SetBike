@@ -7,7 +7,7 @@ Protótipo de um colete sinalizador que seja capaz de emitir sinais visuais da i
 <center>
 <div align="center">
    
-  [![Everything Is AWESOME](https://github.com/suzanasvm/SetBike/blob/master/teste.png)](https://github.com/suzanasvm/SetBike/blob/master/demonstracao.mp4 "Everything Is AWESOME")
+  [![Everything Is AWESOME](https://github.com/suzanasvm/SetBike/blob/master/teste.png)](https://youtu.be/K-O5Bv74CtQ "Everything Is AWESOME")
  <p>
  Clique na imagem para assistir a demonstração
 </p>
