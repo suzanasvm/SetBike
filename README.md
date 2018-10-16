@@ -5,9 +5,10 @@ Protótipo de um colete sinalizador que seja capaz de emitir sinais visuais da i
    <img src="https://github.com/suzanasvm/SetBike/blob/master/esquematico-arduino.png"> 
 </p>
 <center>
- <p align="center">
+<div align="center">
    
   [![Everything Is AWESOME](https://github.com/suzanasvm/SetBike/blob/master/teste.png)](https://github.com/suzanasvm/SetBike/blob/master/demonstracao.mp4 "Everything Is AWESOME")
  <p>
  Clique na imagem para assistir a demonstração
 </p>
+</div>
