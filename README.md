@@ -6,5 +6,6 @@ Protótipo de um colete sinalizador que seja capaz de emitir sinais visuais da i
 </p>
 
  <p align="center">
-   <img src="https://github.com/suzanasvm/SetBike/blob/master/demonstracao.mp4"> 
+  ![image alt text](https://github.com/suzanasvm/SetBike/blob/master/teste.png)wrapped in a link
+[link text](https://github.com/suzanasvm/SetBike/blob/master/demonstracao.mp4"Video")
 </p>
